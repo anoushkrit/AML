@@ -77,6 +77,7 @@ were able to reduce the features with its help. We also tried to reduce some
 features by gaining some domain knowledge. The need for applying Principal
 Component Analysis (PCA) was eventually eliminated as the features were
 reduced through above steps.
+![Sample](https://github.com/anoushkrit/Stock-Price-Forecasting/blob/master/Everyplot.png)
 ### Elimination
 The features having correlation value with the output label (S&P_CLOSE) less
 than 0.07 were removed straight away to reduce the features. The
