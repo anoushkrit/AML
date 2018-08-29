@@ -19,57 +19,57 @@ the dataset are listed from 1/4/1980 – 12/4/1992. Feature to be predicted is
 S&P Close. There are total 679 examples given in the dataset (roughly 4
 example per month).
 #### 1.S&P_HIGH
-It’s a parameter of Standard & Poor listed 500 biggest companies of America.
-This parameter tells us the highest intra-day value achieved by these
-companies.
+> It’s a parameter of Standard & Poor listed 500 biggest companies of America.
+> This parameter tells us the highest intra-day value achieved by these
+> companies.
 #### 2.S&P_LOW
-It’s a parameter of Standard & Poor listed 500 biggest companies of America.
-This parameter tells us the highest intra-day value achieved by these
+> It’s a parameter of Standard & Poor listed 500 biggest companies of America.
+> This parameter tells us the highest intra-day value achieved by these
 companies.
 #### 3.NYSE_ADV_ISS
-This parameter indicates how many companies had an increase in their stock
-prices. This feature will eventually be removed as it has very low correlation
-value with the output label.
+> This parameter indicates how many companies had an increase in their stock
+> prices. This feature will eventually be removed as it has very low correlation
+> value with the output label.
 #### 4.NYSE_DECL_ISS
-This parameter indicates how many companies had a decrease in their stock
-prices. This feature will eventually be removed as it has very low correlation
-value with the output label.
+> This parameter indicates how many companies had a decrease in their stock
+> prices. This feature will eventually be removed as it has very low correlation
+> value with the output label.
 #### 5.OTC_ADV_ISS
-Over-the-Counter (penny stocks) parameter indicates how many penny stocks
-had a surge in its value.
+> Over-the-Counter (penny stocks) parameter indicates how many penny stocks
+> had a surge in its value.
 #### 6.OTC_DECL_ISS
-Over-the-Counter (penny stocks) parameter indicates how many penny stocks
-had a decrease in its value.
+> Over-the-Counter (penny stocks) parameter indicates how many penny stocks
+> had a decrease in its value.
 #### 7.NYSE_NEW_HIGHS
-Parameter tells number of best performing shares.
+> Parameter tells number of best performing shares.
 #### 8.NYSE_NEW_LOWS
-Parameter tells number of worst performing shares.
+> Parameter tells number of worst performing shares.
 #### 9.OTC_NEW_HIGHS
-Parameter tells number of penny stocks which are best performing.
+> Parameter tells number of penny stocks which are best performing.
 #### 10.OTC_NEW_LOWS
-Parameter tells number of penny stocks which are worst performing.
+> Parameter tells number of penny stocks which are worst performing.
 #### 11.NYSE_TOT_VOL
-Total number of shares traded in the exchange.
+> Total number of shares traded in the exchange.
 #### 12.NYSE_ADV_VOL
-Total number of positive performing shares traded in the exchange.
+> Total number of positive performing shares traded in the exchange.
 #### 13.NYSE_DECL_VOL
-Total number of negatively performing shares traded in the exchange.
+> Total number of negatively performing shares traded in the exchange.
 #### 14.OTC_TOT_VOL
-Total number of penny stock shares traded in the exchange.
+> Total number of penny stock shares traded in the exchange.
 #### 15.OTC_ADV_VOL
-Total number of positive performing penny stock shares traded in the
+> Total number of positive performing penny stock shares traded in the
 exchange.
 #### 16.OTC_DECL_VOL
-Total number of negatively performing penny stock shares traded in the
-exchange.
+> Total number of negatively performing penny stock shares traded in the
+> exchange.
 #### 17.S&P EARNINGS
-This feature hasn’t been understood yet.
+> This feature hasn’t been understood yet.
 #### 18.3 MOBILLS
-This feature hasn’t been understood yet.
+> This feature hasn’t been understood yet.
 #### 19.LONGBONDS
-This feature hasn’t been understood yet.
+> This feature hasn’t been understood yet.
 #### 20.GOLD
-How does S&P close affect the prices of gold
+> How does S&P close affect the prices of gold
 
 ## Observation
 Observation from correlation matrix shown below was quite interesting as we
