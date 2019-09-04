@@ -1,21 +1,21 @@
 # Stock Price Forecasting
-This repository is meant for the project material of the course "Applied Machine Learning" taught ny Prof. Madan Gopal.
+This repository is meant for the project material of the course **"Applied Machine Learning"** taught by **Prof. Madan Gopal.**
 
 ## S&P Close Prediction
 In this dataset, we had to predict the value of S&P Close based on 21 other features. 
 
 ## Dataset
 
-Dataset included the Stock Prices from 1/4/1980 – 12/4/1992
+Dataset included the Stock Prices from `1/4/1980 – 12/4/1992`
 
 
 ## Data Pre-Processing
 
-The data was processed by normalising the data with the help of Z_Score. Z_score is the same as defined in Statistics.
+The data was processed by normalising the data with the help of `Z_Score`. `Z_score` is the same as defined in Statistics.
 
 ### Feature Analysis
 There are 21 features in our dataset. The stocks market parameters listed in
-the dataset are listed from 1/4/1980 – 12/4/1992. Feature to be predicted is
+the dataset are listed from `1/4/1980 – 12/4/1992.` Feature to be predicted is
 S&P Close. There are total 679 examples given in the dataset (roughly 4
 example per month).
 
