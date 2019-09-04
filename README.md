@@ -18,6 +18,8 @@ There are 21 features in our dataset. The stocks market parameters listed in
 the dataset are listed from 1/4/1980 – 12/4/1992. Feature to be predicted is
 S&P Close. There are total 679 examples given in the dataset (roughly 4
 example per month).
+
+![Graph of each feature](/graph of each feature.png)
 #### 1.S&P_HIGH
 > It’s a parameter of Standard & Poor listed 500 biggest companies of America.
 > This parameter tells us the highest intra-day value achieved by these
