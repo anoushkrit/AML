@@ -36,22 +36,15 @@ example per month).
 |NYSE_TOT_VOL| Total number of shares traded in the exchange.|
 |NYSE_ADV_VOL| Total number of positive performing shares traded in the exchange.|
 |NYSE_DECL_VOL| Total number of negatively performing shares traded in the exchange.|
-#### 14.OTC_TOT_VOL
-> Total number of penny stock shares traded in the exchange.
-#### 15.OTC_ADV_VOL
-> Total number of positive performing penny stock shares traded in the
+|OTC_TOT_VOL|  Total number of penny stock shares traded in the exchange.
+|OTC_ADV_VOL|  Total number of positive performing penny stock shares traded in the
 exchange.
-#### 16.OTC_DECL_VOL
-> Total number of negatively performing penny stock shares traded in the
+|OTC_DECL_VOL|  Total number of negatively performing penny stock shares traded in the
 > exchange.
-#### 17.S&P EARNINGS
-> This feature hasn’t been understood yet.
-#### 18.3 MOBILLS
-> This feature hasn’t been understood yet.
-#### 19.LONGBONDS
-> This feature hasn’t been understood yet.
-#### 20.GOLD
-> How does S&P close affect the prices of gold
+|S&P EARNINGS|  This feature hasn’t been understood yet.
+|3 MOBILLS|  This feature hasn’t been understood yet.
+|LONGBONDS|  This feature hasn’t been understood yet.
+|GOLD|  How does S&P close affect the prices of gold
 
 ## Observation
 Observation from correlation matrix shown below was quite interesting as we
