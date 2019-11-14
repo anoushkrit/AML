@@ -30,10 +30,8 @@ example per month).
 |OTC_ADV_ISS| Over-the-Counter (penny stocks) parameter indicates how many penny stocks had a surge in its value.|
 |OTC_DECL_ISS| Over-the-Counter (penny stocks) parameter indicates how many penny had a decrease in its value.|
 |NYSE_NEW_HIGHS| Parameter tells number of best performing shares.|
-
-#### 8.NYSE_NEW_LOWS
-> Parameter tells number of worst performing shares.
-#### 9.OTC_NEW_HIGHS
+|NYSE_NEW_LOWS| Parameter tells number of worst performing shares.|
+|OTC_NEW_HIGHS|
 > Parameter tells number of penny stocks which are best performing.
 #### 10.OTC_NEW_LOWS
 > Parameter tells number of penny stocks which are worst performing.
