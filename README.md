@@ -37,8 +37,7 @@ example per month).
 |NYSE_ADV_VOL| Total number of positive performing shares traded in the exchange.|
 |NYSE_DECL_VOL| Total number of negatively performing shares traded in the exchange.|
 |OTC_TOT_VOL|  Total number of penny stock shares traded in the exchange.
-|OTC_ADV_VOL|  Total number of positive performing penny stock shares traded in the
-exchange.
+|OTC_ADV_VOL|  Total number of positive performing penny stock shares traded in the exchange.|
 |OTC_DECL_VOL|  Total number of negatively performing penny stock shares traded in exchange.|
 |S&P EARNINGS|  This feature hasn’t been understood yet.|
 |3 MOBILLS|  This feature hasn’t been understood yet.|
