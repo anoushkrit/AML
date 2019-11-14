@@ -27,10 +27,11 @@ example per month).
 | S&P_LOW| It’s a parameter of Standard & Poor listed 500 biggest companies of America. This parameter tells us the highest intra-day value achieved by these companies.|
 |NYSE_ADV_ISS| This parameter indicates how many companies had an increase in their stock prices. This feature will eventually be removed as it has very low correlation value with the output label.|
 |NYSE_DECL_ISS| This parameter indicates how many companies had a decrease in their stock prices. This feature will eventually be removed as it has very low correlation value with the output label.|
-|
-#### 5.OTC_ADV_ISS
-> Over-the-Counter (penny stocks) parameter indicates how many penny stocks
-> had a surge in its value.
+|OTC_ADV_ISS|Over-the-Counter (penny stocks) parameter indicates how many penny stocks had a surge in its value.|
+
+#### 5.
+>
+>
 #### 6.OTC_DECL_ISS
 > Over-the-Counter (penny stocks) parameter indicates how many penny stocks
 > had a decrease in its value.
