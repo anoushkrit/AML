@@ -40,10 +40,10 @@ example per month).
 |OTC_ADV_VOL|  Total number of positive performing penny stock shares traded in the
 exchange.
 |OTC_DECL_VOL|  Total number of negatively performing penny stock shares traded in exchange.|
-|S&P EARNINGS|  This feature hasn’t been understood yet.
-|3 MOBILLS|  This feature hasn’t been understood yet.
-|LONGBONDS|  This feature hasn’t been understood yet.
-|GOLD|  How does S&P close affect the prices of gold
+|S&P EARNINGS|  This feature hasn’t been understood yet.|
+|3 MOBILLS|  This feature hasn’t been understood yet.|
+|LONGBONDS|  This feature hasn’t been understood yet.|
+|GOLD|  How does S&P close affect the prices of gold|
 
 ## Observation
 Observation from correlation matrix shown below was quite interesting as we
