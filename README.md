@@ -2,7 +2,7 @@
 This repository is meant for the project material of the course **"Applied Machine Learning"** taught by **Prof. Madan Gopal.**
 
 ## S&P Close Prediction
-In this dataset, we had to predict the value of S&P Close based on 21 other features. 
+In this dataset, we had to predict the value of S&P Close based on 21 other features.
 
 ## Dataset
 
@@ -26,12 +26,8 @@ example per month).
 | S&P_HIGH|It’s a parameter of Standard & Poor listed 500 biggest companies of America. This parameter tells us the highest intra-day value achieved by these companies.|
 | S&P_LOW| It’s a parameter of Standard & Poor listed 500 biggest companies of America. This parameter tells us the highest intra-day value achieved by these companies.|
 |NYSE_ADV_ISS| This parameter indicates how many companies had an increase in their stock prices. This feature will eventually be removed as it has very low correlation value with the output label.|
-
-
-#### 4.NYSE_DECL_ISS
-> This parameter indicates how many companies had a decrease in their stock
-> prices. This feature will eventually be removed as it has very low correlation
-> value with the output label.
+|NYSE_DECL_ISS| This parameter indicates how many companies had a decrease in their stock prices. This feature will eventually be removed as it has very low correlation value with the output label.|
+|
 #### 5.OTC_ADV_ISS
 > Over-the-Counter (penny stocks) parameter indicates how many penny stocks
 > had a surge in its value.
