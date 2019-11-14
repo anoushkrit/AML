@@ -20,10 +20,13 @@ S&P Close. There are total 679 examples given in the dataset (roughly 4
 example per month).
 
 ![Graph of each feature](graph_of_each_feature.png)
+
+| Features| Description|
+|---------|------------|
+| S&P_HIGH|It’s a parameter of Standard & Poor listed 500 biggest companies of America. This parameter tells us the highest intra-day value achieved by these companies.|
+
 #### 1.S&P_HIGH
-> It’s a parameter of Standard & Poor listed 500 biggest companies of America.
-> This parameter tells us the highest intra-day value achieved by these
-> companies.
+
 #### 2.S&P_LOW
 > It’s a parameter of Standard & Poor listed 500 biggest companies of America.
 > This parameter tells us the highest intra-day value achieved by these
